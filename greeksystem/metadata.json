@@ -1,7 +1,0 @@
-{
-  "name": "Greek NOOM NOOM - Greek Yogurt DIY & Stock Management",
-  "description": "ระบบสั่งซื้อกรีกโยเกิร์ต DIY พร้อมบันทึกออเดอร์และตัดสต็อกสินค้าอัตโนมัติแบบ Real-time เชื่อมต่อ Google Sheet",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
